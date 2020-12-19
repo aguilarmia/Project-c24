@@ -3,10 +3,10 @@ const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
 const Body = Matter.Body;
-
+var paper, ground, paper object 
 function preload()
 {
-	
+
 }
 
 function setup() {
